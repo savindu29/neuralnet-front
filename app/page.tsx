@@ -4,6 +4,7 @@ import Right from "@/components/home/right";
 
 
 export default function Home() {
+  
   return (
     <div className="w-full min-h-screen bg-gray-900  text-white p-4">
     <Landing/>
