@@ -12,7 +12,7 @@ export default function Home() {
      < div className="flex h-[45vh]  flex-col lg:w-1/3 w-full  gap-4">
      <Left/>
       </div>
-      < div className="flex h-[45vh]  flex-col lg:w-2/3 w-full gap-4">
+      < div className="flex h-[45vh] flex-col lg:w-2/3 w-full gap-4">
      <Right/>
       </div>
   
