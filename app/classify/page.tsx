@@ -86,8 +86,8 @@ const FileUploadPage = () => {
   };
 
   return (
-    <div className="w-full h-screen flex items-center justify-center bg-gray-50">
-      <div className="p-8 max-w-4xl mx-auto bg-white rounded-lg shadow-lg space-y-6">
+    <div className="w-full h-screen flex items-center justify-center bg-gray-100 p-4">
+      <div className="p-8 max-w-4xl mx-auto bg-white rounded-lg space-y-6 shadow-lg">
         <h1 className="text-3xl font-semibold mb-4 text-center text-gray-800">Upload Your EEG Dataset (GDF Format)</h1>
 
         <div className="mb-8 text-center">
